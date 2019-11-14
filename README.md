@@ -2,7 +2,7 @@
 
 ## 运行环境介绍 ##
 
-系统：Mac
+系统：Linux
 
 软件：Python3.6,Django1.11.3,MySQL5.7
 
